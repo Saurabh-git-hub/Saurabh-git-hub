@@ -1,4 +1,9 @@
-<h2 align="center">Hi 👋! My name is Saurabh and I'm a Web - Developer</h2>
+<h2 align="center">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h4 align="center">A Web developer passionate about creating visually stunning, interactive, and responsive websites, and I love solving complex problems with simple, elegant solutions.</h4>
+
+
+
+- 👨‍💻 All of my projects are available at [saurabh-portfolio.com](https://saurabh-git-hub.github.io/Saurabh-Portfolio/)
 
 ###
 
@@ -9,7 +14,7 @@
 </div>
 
 ###
-# 💻 Tech Stack:
+
 <br clear="both">
 
 <div align="center">
@@ -43,19 +48,28 @@
 </div>
 
 ###
-# 💻 Contact:
+---
+## 📧 **Contact**  
+
+Feel free to reach out for any queries or suggestions:  
+- **Developer:** Saurabh  
+- **Email:** saurabh20002004@gmail.com  
+- 🌐 **Portfolio:** [saurabh-portfolio.com](https://saurabh-git-hub.github.io/Saurabh-Portfolio/) 
+
+
+---
+Thanks 🙂
+---
+
+
 <br clear="both">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Saurabh-git-hub/Saurabh-git-hub/output/snake.svg" alt="Snake animation" />
+</picture>
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Saurabh-git-hub/Saurabh-git-hub/output/snake.svg" alt="Snake animation" />
 
 ###
 
