@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Saurabh+Chauhan!;+A+Full+Stack+Developer+!&color=FF5733" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There+!+👋;+I'm+Saurabh+Chauhan+!;+A+Web+Developer+!&color=33FF57" />
 </h1>
 <!-- <h2 align="center">👋 Hi, I'm Saurabh – Full Stack Developer 🚀</h2> -->
 <h4 align="center">I am passionate about building modern, scalable, and high-performing web applications. I specialize in crafting interactive, responsive, and visually stunning web experiences while solving complex problems with clean and efficient code.</h4>
