@@ -72,7 +72,8 @@
 ## 📧 Contact Me
 
 📩 Email: **saurabh20002004@gmail.com**  
-🌍 LinkedIn: **[LinkedIn Profile](https://www.linkedin.com/in/saurabh-chauhan-1a5653342/)**   
+🌍 LinkedIn: **[LinkedIn Profile](https://www.linkedin.com/in/saurabhchauhan2000/)**  
+
 
 ---
 
